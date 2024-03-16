@@ -21,7 +21,7 @@ conda activate your_env_name
 ```
 Clone the repository using `git`
 ```
-git clone https://github.com/Prakashdeveloper03/Sales-Prediction.git
+git clone https://github.com/GauravSingh78/Sales-Prediction.git
 ```
 Change to the cloned directory
 ```
